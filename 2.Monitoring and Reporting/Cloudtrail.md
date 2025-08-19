@@ -20,6 +20,6 @@ AWS CloudTrail is a service that enables governance, compliance, and operational
 
 - **Multi-Region & Organization Support**: Automatically logs events across all AWS regions and supports centralized logging for AWS Organizations.
 
----
+
 
 CloudTrail is essential for maintaining visibility, accountability, and security in AWS environments. It complements CloudWatch by focusing on who did what and when, making it a critical tool for audit trails and forensic investigations.

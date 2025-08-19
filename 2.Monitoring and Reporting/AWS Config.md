@@ -19,6 +19,5 @@ AWS Config is a service that continuously monitors and records AWS resource conf
 - **Integration**  
   Works with AWS Organizations for centralized compliance management and integrates with services like AWS CloudTrail and AWS Security Hub.
 
----
 
 AWS Config is essential for maintaining visibility, enforcing governance, and ensuring compliance across your AWS environment.
